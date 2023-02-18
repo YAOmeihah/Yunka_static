@@ -12,7 +12,7 @@
  		}
  	})
  });
-//没设置一个元素都要添加以下代码
+//每设置一个元素都要添加以下代码
  $(document).ready(function() {
  	$("[data-fancybox]").fancybox()
  });
